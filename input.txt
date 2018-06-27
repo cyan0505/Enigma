@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+tekst testowy
+do kodowania,!
+dalej dalej szyfruj^&%*^%$E*&%
+=======
+to jest przykladowy tekst do zakodowania
+mam nadzieje, ze wszystko dziala
+pozdrawiam serdecznie~!
+>>>>>>> a20e11648b6cfc94a9f744a764f39428aa993960

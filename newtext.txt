@@ -1,0 +1,3 @@
+to jest przykladowy tekst do zakodowania
+mam nadzieje, ze wszystko dziala
+pozdrawiam serdecznie~!
